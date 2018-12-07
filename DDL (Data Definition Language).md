@@ -8,3 +8,4 @@
 |ALTER TABLE     |
 |Optimize table=VACUUM|
 |TRUNCATE TABLE|
+|DELETE TABLE  |
