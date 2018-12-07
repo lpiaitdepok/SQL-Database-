@@ -1,4 +1,4 @@
-# sqlite command line and special commands ( dot commands):
+## sqlite command line and special commands ( dot commands):
 
 # start sqlite 3
 sqlite3
@@ -77,3 +77,5 @@ SELECT * FROM table_name;
 
 ## on unix
 .system xdg-open 'path/file_name.csv'
+
+reference: https://www.sqlite.org/
