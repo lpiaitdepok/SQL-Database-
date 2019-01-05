@@ -8,6 +8,7 @@ CREATE TABLE table_name (
 # modification table
 ALTER TABLE table_name;
 
+DROP TABLE
 CREATE INDEX
 CREATE TRIGGER
 CREATE VIEW
