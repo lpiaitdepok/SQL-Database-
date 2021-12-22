@@ -1,0 +1,3 @@
+CREATE TABLE nama_table (
+field1 tipe_data PRIMARY KEY,
+field2 tipe_data);
